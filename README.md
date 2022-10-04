@@ -15,4 +15,5 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 
 Courses | School | Duration | Effort | Frequency | Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
-[Intro to Python Programming].(https://learning.edx.org/course/course-v1:HarvardX+CS50P+Python/home) 
+[Intro to python Programming](https://learning.edx.org/course/course-v1:HarvardX+CS50P+Python/home) | Harvard | 10 weeks | 10-20 hours/week | self-paced | none
+
