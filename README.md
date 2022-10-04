@@ -15,4 +15,4 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 
 Courses | School | Duration | Effort | Frequency | Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
-Intro to Python Programming](https://learning.edx.org/course/course-v1:HarvardX+CS50P+Python/home) 
+[Intro to Python Programming].(https://learning.edx.org/course/course-v1:HarvardX+CS50P+Python/home) 
