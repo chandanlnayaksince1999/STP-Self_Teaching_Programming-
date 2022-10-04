@@ -1,8 +1,8 @@
 # STP-Self_Teaching_Programming-
 
-# The Open Source Computer Science Degree
+#People who completed  The Open Source Computer Science Degree repo/course can start with this 
 
-This is a curated list of free courses from reputable universities like MIT, Stanford, and Princeton that satisfy the same requirements as an undergraduate Computer Science degree, minus general education.
+
 
 ## Computer Science Basics
 
